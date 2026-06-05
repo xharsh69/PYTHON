@@ -12,18 +12,21 @@ class coder(company):
     language = 'python'
 
     def __init__(self):
+        super().__init__()
         print("it's my code class")
 
 class emploey(coder):
     name = "unknown"
+
+   
     
     def __init__(self , name, salary, age):
+        super().__init__()
         self.name = name
         self.age= age 
         self.salary = salary
     
 
 h1= emploey("harsh",100000,20)
-# print(h1.name,h1.salary,h1.age)
+print(h1.name,h1.salary,h1.age)
 
-# h= company()
