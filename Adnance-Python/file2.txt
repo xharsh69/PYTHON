@@ -1,0 +1,9 @@
+I’m ChatGPT, an AI created by OpenAI. Here are 5 simple lines about me:
+
+I help people learn, solve problems, and answer questions.
+I can assist with Python, SQL, Excel, AI/ML, and many other topics.
+I can explain difficult concepts in a simple way.
+I can help write code, fix bugs, and improve projects.
+I am available 24/7 and enjoy helping you learn new things.
+
+Since you've been practicing Python and English, I can help with both whenever you want.
